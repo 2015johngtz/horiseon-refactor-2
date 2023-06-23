@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Changes the front page main pictures */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,12 +71,14 @@ p {
     margin-left: 25px;
 }
 
+/* changes the 3 box's where the service content goes in */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* changes the box on the right where the benefits for the service goes in */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +138,7 @@ p {
     max-width: 150px;
 }
 
+/* changes the inside of the box where SEO goes */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,6 +148,7 @@ p {
     color: #ffffff;
 }
 
+/* changes the inside of the box where ORM goes */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,6 +158,7 @@ p {
     color: #ffffff;
 }
 
+/* changes the inside of the box where SMM goes */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* changes image sizes for services box section */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -189,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* changes anything inside the footer section */
 .footer {
     padding: 30px;
     clear: both;
@@ -196,6 +204,7 @@ p {
     text-align: center;
 }
 
+/* changes the h4 child element for footer */
 .footer h4 {
     font-size: 20px;
 }
